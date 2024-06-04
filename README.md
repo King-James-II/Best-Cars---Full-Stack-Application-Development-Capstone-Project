@@ -1,12 +1,15 @@
-# Dealer Review App v4.0
+# Dealer Review App v5.0
 
 ## Tasks Accomplished:
-- Created user-friendly React front-end for managing dealerships and reviews.
-- Tested front-end to ensure all dealerships and reviews are accessible.
+- Set up Continuous Integration and Continuous Delivery with GitHub Actions.
+- Added workflow and linting jobs.
+- Enabled GitHub Actions and ran the Linting workflow.
 
 ---
 
 ## Previous Tasks Accomplished:
+- Created user-friendly React front-end for managing dealerships and reviews.
+- Tested front-end to ensure all dealerships and reviews are accessible.
 - Integrated car models and dealer/review services.
 - Created Django views as proxy services to fetch data from external API endpoints.
 - Created a superuser to access the Django admin console. 
