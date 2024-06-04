@@ -1,12 +1,14 @@
-# Dealer Review App v3.2
+# Dealer Review App v4.0
 
 ## Tasks Accomplished:
-- Integrated car models and dealer/review services.
-- Created Django views as proxy services to fetch data from external API endpoints.
+- Created user-friendly React front-end for managing dealerships and reviews.
+- Tested front-end to ensure all dealerships and reviews are accessible.
 
 ---
 
 ## Previous Tasks Accomplished:
+- Integrated car models and dealer/review services.
+- Created Django views as proxy services to fetch data from external API endpoints.
 - Created a superuser to access the Django admin console. 
 - Added CarModel, and CarMake models in Django app.
 - Populated models with test data and viewed it in Django admin console and new /getCars endpoint.
