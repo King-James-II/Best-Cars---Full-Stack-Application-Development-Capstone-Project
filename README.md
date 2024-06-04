@@ -1,13 +1,18 @@
-# Dealer Review App v5.0
+# Dealer Review App v5.1
 
 ## Tasks Accomplished:
-- Set up Continuous Integration and Continuous Delivery with GitHub Actions.
-- Added workflow and linting jobs.
-- Enabled GitHub Actions and ran the Linting workflow.
+- Containerized the application: Prepared the codebase and dependencies to run within a Docker container.
+- Built Docker image: Created a Dockerfile defining the build process for the container image.
+- Pushed to registry: Built and pushed the image to a container registry.
+- Created deployment artifacts: Defined deployment using a deployment.yaml file for a Kubernetes cluster.
+- Deployed to Kubernetes: The application was deployed to a Kubernetes cluster (specific instructions omitted).
 
 ---
 
 ## Previous Tasks Accomplished:
+- Set up Continuous Integration and Continuous Delivery with GitHub Actions.
+- Added workflow and linting jobs.
+- Enabled GitHub Actions and ran the Linting workflow.
 - Created user-friendly React front-end for managing dealerships and reviews.
 - Tested front-end to ensure all dealerships and reviews are accessible.
 - Integrated car models and dealer/review services.
